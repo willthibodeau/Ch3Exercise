@@ -1,0 +1,15 @@
+
+.ui-icon-myicon:after {
+
+        background-image: url("bars-black.png") !important;
+        background-size: 18px 18px;
+
+}
+
+.htmlFooter {
+	text-align: center;
+}
+
+.htmlFooter* {
+	margin: 0 auto;
+}
